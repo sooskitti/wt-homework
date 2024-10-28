@@ -1,0 +1,21 @@
+.inset-shadow {
+  mask-image: linear-gradient(to left, black 90%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to left, black 90%, transparent 100%);
+}
+
+.condensed-font {
+  font-family: "Roboto condensed", sans-serif;
+}
+
+.card-image {
+  height: 35%;
+  max-width: 100%;
+}
+
+.direction-rtl {
+  direction: rtl;
+}
+
+.direction-ltr {
+  direction: ltr;
+}
